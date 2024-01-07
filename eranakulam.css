@@ -1,0 +1,80 @@
+.navbar-brand{
+    color: rgb(249, 11, 11);
+    font-weight: bolder;
+}
+.logo{
+    width: 100px;
+}
+.headline{
+    font-size: 40px;
+    color: forestgreen;
+    font-weight: bolder;
+}
+
+.navbar-nav{
+    padding-left:75% ;
+    font-weight: bolder; 
+}
+.dropdown-item{
+    font-weight: bolder;
+}
+
+.introduction h2{
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.introduction p{
+    font-size: 18px;
+    line-height: 30px;
+}
+
+.introduction img{
+    margin-top: 50px;
+    padding-left: 50px;
+    max-width: 100%;
+    height: 500px;
+}
+.introduction span{
+    font-weight: bold;
+}
+
+.touristspot h2{
+    margin-top: 50px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 20px;
+    text-decoration: underline;
+     
+}
+
+.destination .card1{
+    max-height: 500px;
+    display: flex;
+    overflow-x: auto;
+
+}
+
+.destination .card {
+    min-width: 350px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.destination h3{
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.destination img{
+    width: 100%;
+    height: 200px;
+}
+.destination iframe{
+    margin-bottom: 20px;
+    width: 100%;
+    height: 100px;
+}
